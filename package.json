@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HenriqueHendel/nodejs-igniite-challenge-01/issues"
   },
-  "homepage": "https://github.com/HenriqueHendel/nodejs-igniite-challenge-01#readme"
+  "homepage": "https://github.com/HenriqueHendel/nodejs-igniite-challenge-01#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
 }
